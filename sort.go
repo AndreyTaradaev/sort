@@ -14,7 +14,10 @@ func bubbleSort(ar []int) {
 		 if !IsChange  {
 			 break
 		}
-	}		  
+	}
+
+
+	
 }
 
 
@@ -30,7 +33,10 @@ func SelectionSort(ar []int){
  				}		
 			}			
 		ar[i], ar[Minind]	 = 	Minval ,ar[i]		
-	}			
+	}
+
+
+	
 }
 
 func InsertSort(ar []int){
