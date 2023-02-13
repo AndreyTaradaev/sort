@@ -44,6 +44,9 @@ func InsertSort(ar []int){
 	}
 	ar[j+1] = curvalue	
 	}	
+	
+	
+	
 }
 
 
